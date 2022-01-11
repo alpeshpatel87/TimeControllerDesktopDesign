@@ -1,0 +1,15 @@
+H:\dot_net\Design1\Design1\bin\Debug\Design1.exe.config
+H:\dot_net\Design1\Design1\bin\Debug\Design1.exe
+H:\dot_net\Design1\Design1\bin\Debug\Design1.pdb
+H:\dot_net\Design1\Design1\bin\Debug\Design1.xml
+H:\dot_net\Design1\Design1\bin\Debug\FontAwesome.Sharp.dll
+H:\dot_net\Design1\Design1\obj\Debug\Design1.vbproj.AssemblyReference.cache
+H:\dot_net\Design1\Design1\obj\Debug\Design1.vbproj.SuggestedBindingRedirects.cache
+H:\dot_net\Design1\Design1\obj\Debug\Design1.Form1.resources
+H:\dot_net\Design1\Design1\obj\Debug\Design1.Resources.resources
+H:\dot_net\Design1\Design1\obj\Debug\Design1.vbproj.GenerateResource.cache
+H:\dot_net\Design1\Design1\obj\Debug\Design1.vbproj.CoreCompileInputs.cache
+H:\dot_net\Design1\Design1\obj\Debug\Design1.vbproj.CopyComplete
+H:\dot_net\Design1\Design1\obj\Debug\Design1.exe
+H:\dot_net\Design1\Design1\obj\Debug\Design1.xml
+H:\dot_net\Design1\Design1\obj\Debug\Design1.pdb
